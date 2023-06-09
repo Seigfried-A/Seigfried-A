@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amos an upcoming javascript developer looking to learn and acquire as much knowledge as he can.
+- 👋 Hi, I’m Amos a javascript developer looking to build. i am a fast learner, a lover of innovation and generally a fun guy.
 - 👀 I’m interested in javascript-React.js and Node.js
 - 🌱 I’m currently learning fullstack web development.
 - 💞️ I’m looking to collaborate on any project to help build my learning.
